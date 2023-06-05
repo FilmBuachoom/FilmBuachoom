@@ -7,6 +7,27 @@
 </div>
 
 ### 👨‍💼 About Me :
+Greetings, ladies and gentlemen. I am Weeravat Buachoom, also known as Film. I am currently in my fourth year of study at the Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL). My academic focus lies in the fields of data science and data engineering. I possess a keen interest in machine learning, deep learning, ETL (Extract, Transform, Load) processes, image recognition, database design, and other endeavors associated with the realms of data science and data engineering.
+
+### ✍️ Academic Projects :
+- **Senior project** [🔗](https://drive.google.com/file/d/1Uk64kGnafciRpjSRIXZWk1APPPV2AT4P/view?usp=share_link)<br>
+  The pipeline was written once to automate the model training process. Human involvement was limited to monitoring the validity of newly trained models and serving them through the deep learning API.
+  
+- **Character image recognition** [🔗](https://github.com/FilmBuachoom/Character-image-recognition)<br>
+  A model was developed that could recognize letters and vowels in the Thai language from image data containing normal images, inverted images, blurry images, and noisy images.
+
+- **Data Warehouse Designing** [🔗](https://www.canva.com/design/DAEoX_smSko/qsWnHvi2yzZe8OnlLYgXUQ/view?utm_content=DAEoX_smSko&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)<br>
+  The airline industry commonly faces the issue of flight delays, resulting in customer dissatisfaction. To address this problem, analyzing the underlying causes is crucial. However, traditional database systems are unable to analyze big data effectively, necessitating the creation of a data warehouse capable of analyzing extensive and diverse information from different perspectives to obtain more efficient insights.
+
+- **Text Classification** [🔗](https://github.com/FilmBuachoom/Text-classification)<br>
+  This work assumes document classification to determine document type. Suitable feature extraction method selects parameters representing news articles (headlines and content). Objective: evaluate classifiers for accurate extraction by optimizing parameters based on best score.
+
+- **IoT-Temperature and Humidity (DHT22)** [🔗](https://youtu.be/9aYBmkbg5fs)<br>
+  The temperature and humidity measurements are obtained using a DHT22 sensor. These values are then sent to an MQTT broker for further processing. To store the data, Telegraph is utilized to subscribe to the MQTT broker and save the measurements to InfluxDB. Finally, Grafana is employed to display the collected values in a visually appealing manner.
+
+- **IoT-Photoresistor (LDR)** [🔗](https://youtu.be/yL9S1XTfx_w)<br>
+  The light bulb can be automatically turned on or off based on the presence or absence of daylight.
+
 
 ### 🛠️ Languages and Tools :
 <div>
