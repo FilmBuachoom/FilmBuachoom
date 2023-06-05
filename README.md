@@ -9,6 +9,7 @@
 ### 👨‍💼 About Me :
 Greetings, ladies and gentlemen. I am Weeravat Buachoom, also known as Film. I am currently in my fourth year of study at the Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL). My academic focus lies in the fields of data science and data engineering. I possess a keen interest in machine learning, deep learning, ETL (Extract, Transform, Load) processes, image recognition, database design, and other endeavors associated with the realms of data science and data engineering.
 
+---
 ### ✍️ Academic Projects :
 - **Senior project** [🔗](https://drive.google.com/file/d/1Uk64kGnafciRpjSRIXZWk1APPPV2AT4P/view?usp=share_link)<br>
   The pipeline was written once to automate the model training process. Human involvement was limited to monitoring the validity of newly trained models and serving them through the deep learning API.
@@ -28,7 +29,7 @@ Greetings, ladies and gentlemen. I am Weeravat Buachoom, also known as Film. I a
 - **IoT-Photoresistor (LDR)** [🔗](https://youtu.be/yL9S1XTfx_w)<br>
   The light bulb can be automatically turned on or off based on the presence or absence of daylight.
 
-
+---
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -43,6 +44,12 @@ Greetings, ladies and gentlemen. I am Weeravat Buachoom, also known as Film. I a
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥 My stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilmBuachoom&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilmBuachoom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+
 
 <!--
 **FilmBuachoom/FilmBuachoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
